@@ -12,6 +12,11 @@ The game supports real-time paddle movement, puck physics, scoring logic, and mu
 > The UI and gameplay scale correctly across different screen sizes, including Pixel devices.
 
 ---
+## 🎥 Gameplay Demo
+
+👉 **Watch the gameplay video here:**  
+🔗 **YouTube Link:**  https://youtube.com/shorts/ulirZjNfxgo?feature=share
+---
 
 ## 🎮 Game Features
 
@@ -40,6 +45,17 @@ The game supports real-time paddle movement, puck physics, scoring logic, and mu
 - Game reset & replay functionality
 
 ---
+## 🏆 Winning Rules
+
+- First player to **10 goals** wins (First-to-10 mode)
+- In timed modes:
+  - Player with **higher score** wins the round
+  - First to **2 round wins** wins the match
+- Game automatically **stops** after a winner is decided
+- Restart option available
+
+---
+
 
 ## 🛠 Tech Stack
 

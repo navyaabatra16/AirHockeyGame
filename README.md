@@ -78,6 +78,6 @@ The game supports real-time paddle movement, puck physics, scoring logic, and mu
 
 ```bash
 git clone https://github.com/navyaabatra16/AirHockeyGame.git
-cd AirHockeyGame
+cd AirHockeyGameV2
 npm install
 npx react-native run-android
